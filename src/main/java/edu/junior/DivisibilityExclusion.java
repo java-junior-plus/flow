@@ -29,7 +29,7 @@ public class DivisibilityExclusion {
     }
 
     public int[] removeEven() {
-        // TODO: Remove all odd numbers from the array with for-each loop
+        // TODO: Remove all even numbers from the array with for-each loop
         throw new UnsupportedOperationException();
     }
 
